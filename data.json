@@ -1,0 +1,55 @@
+{
+	"details":{
+		"image":"photo.png",
+		"name":"gouthami",
+		"phonenum":"+91-9988776644",
+	    "email":"gouthamivelama1998@gmail.com",
+	    "address":"vignan's nirula college,guntur"
+    },
+    "career":{
+    	"info":"to pursue a challenging career and to be independent"
+    },
+    "education":[
+    	{
+    		"qualification":"b.tech",
+    		"institute":"vignan's nirula college,guntur",
+    		"year":"2016-2020",
+    		"percentage":"75%"
+    	},
+    	{
+    		"qualification":"intermediate",
+    		"institute":"narayana junior college",
+    		"year":"2014-2016",
+    		"percentage":"87%"
+    	},
+    	{
+    		"qualification":"ssc",
+    		"institute":"sri chaitanya techno school",
+    		"year":"2014",
+    		"percentage":"93%"
+    	}		
+    	
+    ],
+    "skills":[
+    	{
+    	   "title":"programming language",
+    	   "info":["c","java","python","R"]
+
+    	},
+    	{
+    	  "title":"data base",
+    	  "info":["oracle","mysql","sql"]    
+    	},
+    	{
+    		"title":"operating systems",
+    	    "info":["windows","linux","unix","ubuntu"]
+    	}
+    ],
+    "achivements":[
+        {
+            "title":"group discussion",
+            "info":"3rd prize for our group in gd"
+        }
+    ]
+
+}
